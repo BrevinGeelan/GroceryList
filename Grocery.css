@@ -1,0 +1,86 @@
+h1 {
+  color: rgb(46, 37, 31);
+  text-align: center;
+  font-size: 35px;
+  margin-top: 35px;
+}
+body {
+  background-color: antiquewhite;
+}
+h3 {
+  font-size: 25px;
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(44, 22, 22);
+  color: rgb(53, 182, 35);
+}
+h2 {
+  text-align: center;
+  color: rgb(53, 182, 35);
+  font-size: 30px;
+  margin-top: 50px;
+  margin-bottom: 5px;
+  background-color: rgb(44, 22, 22);
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+#beach {
+  margin-top: 100px;
+}
+#Meats {
+  margin-left: 100px;
+}
+#Dairy {
+  margin-right: 100px;
+}
+ul {
+  background-color: rgb(155, 125, 125);
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+img {
+  height: 200px;
+}
+#pigsfeet {
+  width: 200px;
+  margin-left: 120px;
+  margin-bottom: 100px;
+}
+#eggshort {
+  margin-left: 130px;
+  margin-bottom: 100px;
+}
+#caprisun {
+    margin-left: 140px;
+  width: 250px;
+  margin-bottom: 400px;
+}
+#cones {
+  width: 250px;
+  margin-left: 80px;
+  margin-bottom: 400px;
+}
+#snacks {
+  margin-left: 100px;
+}
+#drinks {
+  margin-right: 125px;
+}
+#picnic {
+    width: 400px;
+    height: 400px;
+    margin-left: 140px;
+    margin-bottom: 200px;
+}
+#fridge {
+    height: 300px;
+    width: 400px;
+    margin-left: 150px;
+}
